@@ -1,0 +1,57 @@
+html {
+    background: grey;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+    padding: 40px;
+    color:black;
+    border-top: 10px solid #242424;
+    background: #fff;
+
+}
+section {
+    display: flex;
+    margin: 0 auto;
+}
+
+article {
+    background: #fff;
+    padding: 20px;
+    margin: 20px;
+}
+
+h1 {
+    color: white;
+    background-color: black;
+    font-size: 3em;
+    margin: 0;
+}
+h2 {
+    font-weight: 300;
+    border-bottom: 1px dotted #242424;
+    margin: 20px;
+
+}
+.title {
+    position: sticky;
+    top: 0;
+}
+
+ul {
+    display: flex;
+    margin: 0 auto;
+}
+
+li {
+    padding: 40px;
+    margin: 40px;
+}
+.avatar {
+    display: flex;
+    margin: 0 auto;
+}
+.resume {
+    display: flex;
+    margin: 0 auto;
+}
